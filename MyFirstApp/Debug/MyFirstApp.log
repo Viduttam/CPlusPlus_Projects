@@ -1,2 +1,3 @@
 ﻿  MyFirstApp.cpp
+D:\VidProjects\CPlusPlus_Projects\MyFirstApp\MyFirstApp.cpp(16,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
   MyFirstApp.vcxproj -> D:\VidProjects\CPlusPlus_Projects\MyFirstApp\Debug\MyFirstApp.exe
